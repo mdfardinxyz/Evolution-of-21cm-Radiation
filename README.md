@@ -16,7 +16,7 @@ Project Supervisor: [**Dr. Khan Asad**](https://coalab.space/people/asad/) | Ast
 
 Course Instructor: [**Dr. Jewel Kumar Ghosh**](https://iub.ac.bd/academics/departments/ps/faculty-and-staff/jewel.ghosh) | Theoretical Physicist and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
-This project was part of the [**PHY402 - Cosmology**](https://cassa.site/project/phy402/) course.\
+This project was part of the [**PHY402 - Cosmology**](https://cassa.site/project/phy402/) course from the [**Astronomy and Astrophysics**](https://cassa.site/minor/) minor.\
 Timeline: December 2023
 
 
