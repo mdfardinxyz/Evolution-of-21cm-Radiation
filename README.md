@@ -7,8 +7,11 @@ The code above, executed with a fixed redshift (z), constructs a cubic represent
 
 ![image](https://github.com/user-attachments/assets/48500061-fb8d-426d-aded-f5f6e3099dd7)
 
-
 Within this cubic canvas, the code gives us the motions of neutral hydrogen, tracing the evolution of 21cm radiation. The simulation encapsulates the interplay between cosmic expansion, gravity, and the intricate dance of matter. As the code iterates through the simulated universe, it provides a dynamic visualization of how cosmic structures evolve, influenced by the fundamental cosmological parameters.
 
+![image](https://github.com/user-attachments/assets/43e43bab-7332-45ad-80e4-a63577b63234)
+
+Project Supervisor: Supervisor: [Dr. Khan Asad](https://coalab.space/people/asad/) | Astronomer and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
+Course Instructor: [Dr. Jewel Kumar Ghosh](https://iub.ac.bd/academics/departments/ps/faculty-and-staff/jewel.ghosh) | Theoretical Physicist and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
 Timeline: December 2023
