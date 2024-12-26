@@ -13,6 +13,6 @@ Within this cubic canvas, the code gives us the motions of neutral hydrogen, tra
 
 Project Supervisor: [**Dr. Khan Asad**](https://coalab.space/people/asad/) | Astronomer and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
-Course Instructor: [Dr. Jewel Kumar Ghosh](https://iub.ac.bd/academics/departments/ps/faculty-and-staff/jewel.ghosh) | Theoretical Physicist and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
+Course Instructor: [**Dr. Jewel Kumar Ghosh**](https://iub.ac.bd/academics/departments/ps/faculty-and-staff/jewel.ghosh) | Theoretical Physicist and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
 Timeline: December 2023
