@@ -12,7 +12,7 @@ Within this cubic canvas, the code gives us the motions of neutral hydrogen, tra
 ![image](https://github.com/user-attachments/assets/43e43bab-7332-45ad-80e4-a63577b63234)
 
 
-Project Supervisor: [**Dr. Khan Asad**](https://coalab.space/people/asad/) | Astronomer, Director of Center for Astronomy, Space Science and Astrophysics (CASSA) | Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
+Project Supervisor: [**Dr. Khan Muhammad Bin Asad**](https://coalab.space/people/asad/) | Astronomer, Director of Center for Astronomy, Space Science and Astrophysics (CASSA) | Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
 Course Instructor: [**Dr. Jewel Kumar Ghosh**](https://iub.ac.bd/academics/departments/ps/faculty-and-staff/jewel.ghosh) | Theoretical Physicist and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
